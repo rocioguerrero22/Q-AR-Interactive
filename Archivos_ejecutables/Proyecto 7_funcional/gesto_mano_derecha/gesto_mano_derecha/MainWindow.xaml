@@ -1,0 +1,24 @@
+﻿<Window x:Class="gesto_mano_derecha.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gesto_mano_derecha"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="512.037" Width="918.501" Loaded="Window_Loaded">
+
+    <Grid Margin="0,0,2,-92">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="404*"/>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="181*"/>
+            <ColumnDefinition Width="249*"/>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="16*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="VideoControl" Stretch="Fill" Margin="0,0,118,22" Grid.ColumnSpan="4"/>
+        <Label x:Name="txtestatus" Content="" HorizontalAlignment="Left" Margin="148,251,0,0" VerticalAlignment="Top" Height="88" Width="330" FontSize="48" FontWeight="Bold" Grid.ColumnSpan="3"/>
+        <Button x:Name="BtnBgn" Content="Iniciar" HorizontalAlignment="Left" Margin="132,63,0,0" VerticalAlignment="Top" Width="75" Grid.Column="3" Click="BtnBgn_Click"/>
+
+    </Grid>
+</Window>

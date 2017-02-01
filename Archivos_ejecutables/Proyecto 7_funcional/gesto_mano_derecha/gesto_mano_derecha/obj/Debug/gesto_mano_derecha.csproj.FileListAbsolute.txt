@@ -1,0 +1,57 @@
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csprojResolveAssemblyReference.cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.g.cs
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\App.g.cs
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.lref
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.baml
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.g.resources
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.Properties.Resources.resources
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csproj.GenerateResource.Cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 4\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csprojResolveAssemblyReference.cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.g.cs
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\App.g.cs
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.lref
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.baml
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.g.resources
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.Properties.Resources.resources
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csproj.GenerateResource.Cache
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csproj.gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Documents\Trabajo Terminal\Avance 2\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.pdb
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csprojResolveAssemblyReference.cache
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csproj.gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.g.cs
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\App.g.cs
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.cache
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha_MarkupCompile.lref
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\MainWindow.baml
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.g.resources
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.Properties.Resources.resources
+C:\Users\ROCIO\Desktop\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.csproj.GenerateResource.Cache
+C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\bin\Debug\gesto_mano_derecha.exe.config
+C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.exe
+C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\Proyecto 7_funcional\gesto_mano_derecha\gesto_mano_derecha\obj\Debug\gesto_mano_derecha.pdb

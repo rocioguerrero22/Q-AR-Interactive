@@ -1,0 +1,22 @@
+﻿<Window x:Class="KinectMeasurements.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UBICAR USUARIO" Height="768" Width="1024" 
+        Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <TextBox x:Name="tbStatusText" HorizontalAlignment="Left" Height="23" Margin="29,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Canvas x:Name="StickMen" Width="600" Height="500" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+       
+        <Label x:Name="Logger" FontSize="50" HorizontalAlignment="Center" Margin="29,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.8,0.6"/>
+        <Label x:Name="xLabCor" Content="X" HorizontalAlignment="Left" Margin="29,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="yLabCor" Content="Y" HorizontalAlignment="Left" Margin="29,262,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="zLabCor" Content="Z" HorizontalAlignment="Left" Margin="29,343,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Profundidad" Content="Distancia" HorizontalAlignment="Left" Margin="12,418,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Lateral" Content="Lateral" HorizontalAlignment="Left" Margin="22,494,0,0" VerticalAlignment="Top" Width="48" RenderTransformOrigin="0.231,7.058"/>
+        <TextBox x:Name="xTbCor" HorizontalAlignment="Left" Height="60" Margin="60,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="50"/>
+        <TextBox x:Name="zTbCor" HorizontalAlignment="Left" Height="60" Margin="60,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="50"/>
+        <TextBox x:Name="yTbCor" HorizontalAlignment="Left" Height="60" Margin="60,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" FontSize="50"/>
+        <TextBox x:Name="Instruccion" HorizontalAlignment="Left" Height="56" Margin="75,404,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="308" FontSize="50"/>
+        <TextBox x:Name="lado" HorizontalAlignment="Left" Height="56" Margin="75,479,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="308" FontSize="50"/>
+    </Grid>
+</Window>

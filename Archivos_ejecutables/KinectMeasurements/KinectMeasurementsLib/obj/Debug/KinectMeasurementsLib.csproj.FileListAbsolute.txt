@@ -1,0 +1,14 @@
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\bin\Debug\KinectMeasurementsLib.dll
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\bin\Debug\KinectMeasurementsLib.pdb
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\bin\Debug\Microsoft.Kinect.dll
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.csprojResolveAssemblyReference.cache
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.dll
+C:\Users\JimminaLunatiqah\Downloads\KinectMeasurements-master\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.pdb
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\bin\Debug\KinectMeasurementsLib.dll
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\bin\Debug\KinectMeasurementsLib.pdb
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.csprojResolveAssemblyReference.cache
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.dll
+C:\Users\ROCIO\Desktop\PROTOTIPOS\KinectMeasurements\KinectMeasurementsLib\obj\Debug\KinectMeasurementsLib.pdb

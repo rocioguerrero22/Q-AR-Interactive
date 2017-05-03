@@ -49,3 +49,6 @@ C:\Users\ROCIO\Desktop\PROTOTIPOS\AR_bothHands\KinectCoordinateMapping\obj\Debug
 C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\AR_bothHands\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
 C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\AR_bothHands\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
 C:\Users\ROCIO\Desktop\Trabajo Terminal 1\PROTOTIPOS\AR_bothHands\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\ROCIO\Documents\TrabajoTerminal\Archivos_ejecutables\AR_bothHands\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\ROCIO\Documents\TrabajoTerminal\Archivos_ejecutables\AR_bothHands\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\ROCIO\Documents\TrabajoTerminal\Archivos_ejecutables\AR_bothHands\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
